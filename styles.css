@@ -1,16 +1,17 @@
 
 /* Your CSS Code here. */
 body{
-    background-color: antiquewhite;
+    background-color: black;
+    color: whitesmoke;
+    position: relative;
+    top: 10vw;
+    left: 25vw;
 }
-button{
-    background-color: rgb(255, 0, 51);
-    border-radius: 13px;
-    width: 70px;
-    height: 25px;
-    
-    
+form div{
+    margin: 15px;
+    padding: 5px;
+    font-size: 20px;
 }
-:hover.button{
-    background-color: firebrick;
+h1{
+    margin: 15px;
 }
