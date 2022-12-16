@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+fieldset{
+    background-color: antiquewhite;
+}
+button{
+    background-color: rgb(255, 0, 51);
+    border-radius: 13px;
+    width: 70px;
+    height: 25px;
+    
+    
+}
+:hover.button{
+    background-color: firebrick;
+}
